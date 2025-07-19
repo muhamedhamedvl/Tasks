@@ -37,4 +37,4 @@ Implement the solution using StringBuilder for better performance.
 
 Analyze the time complexity of the solution.
 
-![Task2](Task2/Images)
+![Task2](Task2/Images/1.png)
